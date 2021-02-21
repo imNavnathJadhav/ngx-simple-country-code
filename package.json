@@ -1,0 +1,13 @@
+{
+  "name": "ngx-simple-country-code",
+  "version": "0.0.1",
+  "description": "Select Country Code from options.",
+  "author": "Navnath Jadhav",
+  "peerDependencies": {
+    "@angular/common": "^11.1.2",
+    "@angular/core": "^11.1.2"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
+}
